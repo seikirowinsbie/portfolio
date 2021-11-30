@@ -1,7 +1,8 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import Router from './Router';
 import NavBar from './components/layouts/NavBar';
+import './design/Colors.scss';
 class App extends React.Component
 {
     

@@ -6,7 +6,13 @@ export default class About extends React.Component
     {
         return (
             <>
-                <h1>About Me</h1>
+               <div className="container">
+                   <div className="row pt-5">
+                       <div className="col-lg-12">
+                       <h1>About Me</h1>
+                       </div>
+                   </div>
+               </div>
             </>
         )
     }

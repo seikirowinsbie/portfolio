@@ -1,0 +1,20 @@
+.custom-navbar
+{
+    background-color: #ffffff;
+    z-index: 99;
+}
+
+.navbar-nav
+{
+    .nav-item
+    {
+        font-size: 15px;
+        margin-left: 1em;
+        margin-right: 1em;
+        .nav-link
+        {
+            color:black;
+            
+        }
+    }
+}

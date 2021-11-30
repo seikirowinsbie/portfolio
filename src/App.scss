@@ -1,3 +1,14 @@
+@import './fonts/fonts.scss';
+*{
+  font-family: 'Roboto-regular';
+}
+
+h1,h2,h3,h4,h5,h6
+{
+  font-family:'Roboto-bold';
+
+}
+
 .App {
   text-align: center;
 }

@@ -1,0 +1,38 @@
+*{
+    padding:0px;
+}
+
+
+.homePage
+{
+   
+    background-image: url('../images/background.png');
+    background-size: contain;
+ 
+  
+}
+
+#intro-text
+{
+    padding-top:20%;
+    padding-bottom:20%;
+    h1
+    {
+        font-size: 4.3em;
+        line-height: 80px;
+    }
+
+
+
+    p {
+        font-size: 20px;
+        line-height: 30px;
+        color:#737070;
+    }
+
+    .social-icons
+    {
+        margin-right: 30px;
+    }
+}
+
